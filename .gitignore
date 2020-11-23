@@ -2,3 +2,6 @@ _site/
 
 _pages/about.html
 _pages/publications.html
+.bundle/
+Gemfile.lock
+vendor/
